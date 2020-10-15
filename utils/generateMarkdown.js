@@ -14,9 +14,7 @@ function generateMarkdown(data) {
   ${data.contributions}
 
   ## Testing
-  ${```bash
-  npm test
-  ```}
+  ${data.test}
 `;
 }
 
