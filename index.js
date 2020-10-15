@@ -13,6 +13,26 @@ const questions = [
         type: "input",
         name: "description",
         message: "Describe your project"
+    },
+    {
+        type: "input",
+        name: "installation",
+        message: "Describe installation instrustions?"
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "How to use the app?"
+    },
+    {
+        type: "input",
+        name: "contributions",
+        message: "How can a user make contributions?"
+    },
+    {
+        type: "input",
+        name: "test",
+        message: "How to test the app?"
     }
 ];
 
