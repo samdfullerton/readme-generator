@@ -1,18 +1,18 @@
-# Samfu readme
-  smooth
+# samfu readme
+  coolest project ever about creating readme
 
   ## Installation Instructions
-   moderately easy
-
+  very simple
   
   ## How to use the app
-   use it
+  node
 
   ## User contributions
-  git hub repo
+  github repo
 
   ## Testing
-  ```bash
-  npm run test
-  ```
+  run test
+
+  ## link
+  https://drive.google.com/file/d/1N9JXMgVTeMkBUKpuqpEoPwGatbw0Dma7/view
 
